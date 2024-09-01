@@ -46,4 +46,4 @@ El sitio web se organiza en las siguientes páginas principales:
 - **Imágenes**:
   - `ubicacion.png` - Imagen del mapa de ubicación en la página de ubicación.
 
-Para más detalles sobre el diseño y la implementación, consulta el código fuente en el repositorio.
+
