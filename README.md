@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9eff5791-2cae-4d24-bf13-52cdd9813746/deploy-status)](https://app.netlify.com/sites/todogymdesarrolloweb/deploys)
+
 # Todo-GYM
 
 ## Descripción General
